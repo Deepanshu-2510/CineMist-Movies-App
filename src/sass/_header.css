@@ -126,6 +126,7 @@ nav li {
 
 .nav__btn-fav:hover {
   background-color: hsl(0 0% 0%/0.15);
+  border-radius: 10px;
 }
 
 .btn__search:hover {
